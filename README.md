@@ -26,7 +26,7 @@ make
 ```
 which do them both.
 
-For my very budget-orientated laptopt and *gcc version 4.8.4* the tests yeald:
+For my very budget-orientated laptop and *gcc version 4.8.4* the tests yield:
 ```
 Structure: 71815
 Expression template: 449024
@@ -53,5 +53,4 @@ Expression template: 557
 TStruct/TTempl: 48.9479
 ```
 The times are in [micro seconds].
-
 
