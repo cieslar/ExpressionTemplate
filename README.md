@@ -28,6 +28,7 @@ which do them both.
 
 For my very budget-orientated laptop and *gcc version 4.8.4* the tests yield:
 ```
+./exe
 Structure: 71815
 Expression template: 449024
 TStruct/TTempl: 0.159936
