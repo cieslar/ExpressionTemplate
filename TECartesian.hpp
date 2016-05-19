@@ -30,8 +30,8 @@ public:
 		if (i==0) return fX;
 		if (i==1) return fY;
 		if (i==2) return fZ;
-		//return *pData[i]; 
 	}
+
 	double  operator[](size_t i) const 
 	{
 		if (i==0) return fX;
@@ -137,10 +137,4 @@ template <typename E> TECartesianInv<E> const operator-(TECartesianExpression<E>
 {
    return TECartesianInv<E>(u);
 }
-
-
-
-
-
-
 
